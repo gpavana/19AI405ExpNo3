@@ -64,9 +64,8 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 <li>Iterate steps 4 and 5 until all nodes get visited, and there are no more unvisited nodes.</li>
 
 
-<h1>DEVOLOPED BY PAVANA.G</h1>
-<h1>REGISTER NUMBER 212222230105</h1>
-
+## DEVOLOPED BY PAVANA.G
+## REGISTER NUMBER 212222230105
 ## PROGRAM
 ```python
 from collections import deque
